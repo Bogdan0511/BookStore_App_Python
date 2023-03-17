@@ -1,0 +1,7 @@
+2,Povesti,Creanga,1880
+4,Ion,Rebreanu,1920
+5,Moara cu Noroc,Slavici,1889
+6,AABB,Cineva,2000
+7,Ceva,Ionut,2001
+8,Carte,George,2010
+3,Divina Comedie,Dante,1300
